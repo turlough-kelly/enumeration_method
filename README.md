@@ -4,3 +4,6 @@ Code from the 2005 paper "The Enumeartion Method for Selecting Optimum Switching
 
 # THIS CODE IS NOT MY OWN. 
 It was provided by Mr. Wójcik and the purpose of this repository is to preserve the original code for use in the future. None of this work is my own, and all credit goes to Mr. Wójcik and Mr. Jajszczyk.
+
+# How do I use this code?
+Simply download the C files for your chosen number of stages and run in your preferred IDE.
